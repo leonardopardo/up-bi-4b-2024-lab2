@@ -5,7 +5,7 @@
 ---
 
 ## 🎯 Objetivo  
-1. Ingestar el archivo csv adjunto según el patrón “full load”:
+1. Ingestar el archivo csv adjunto según el patrón “full load”:  
   a. Construir un artefacto que sirva de loader para ingestar el archivo en una base de datos a elección tomando el tiempo de comienzo del proceso y fin del mismo para determinar el tiempo total de procesamiento.  
   b. Realizar esta prueba 10 veces tomando los tiempos en cada iteración.  
   c. Documentar y compartir el tiempo promedio de ejecución bajo este patrón.  
